@@ -1,12 +1,13 @@
 <table>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/9Pnew.jpg" /></td>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/9Pnew1.jpg" /></td>
   </tr>
   <tr>
   <td align=center>
   ◆◆◆九评共产党◆◆◆<br/>
   看懂当下，看清未来<br/>
    <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&from=wnel">请点击在线浏览</a><br/>
+ 如打开慢，缓冲稍等或刷新<br/>
      </tr>
   <tr>
     <td align=left>
@@ -29,8 +30,17 @@
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&current=6:1&from=wnel">【特稿】九评问世13年 中国巨变在即</a><br/>
   </tr>
   <tr>
+      <td align=left>
+  * 参考资料：<br/>
+◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&from=wnel">九评共产党：全球热传18年人心明</a><br/>
+◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FMTDWH.mp4&from=wnel">漫谈党文化</a><br/>
+◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?1D%2FJTDWH&from=wnel">解体党文化</a><br/>
+◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FBNGCD&from=wnel">百年共产党</a><br/>
+◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816602&from=wnel">马克思的成魔之路</a><br/>
+</tr>
+  <tr>
     <td align=center>
-看完九评，<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogST.aspx?from=wnel">请点击在线快速办理</a><br/>
+看完九评，<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogST.aspx?from=wnel-3T">请点击在线快速办理</a><br/>
 全球近3亿明白人的幸运选择，珍贵机缘<br/>
 为你而来，这一次您千万别再错过～<br/>
   </tr>
@@ -41,7 +51,7 @@
   <tr><td align=center>▼▼▼更多精彩，请看下面▼▼▼<br/>
   </tr>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate3.jpg" /></td>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
   </tr>
   <tr>
    <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
@@ -54,7 +64,8 @@
     </td>
   </tr>
   <tr>
-    <td align=center>
+ <td align=center>
+    如打开慢，缓冲稍等或刷新<br/>
       <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">大陆请点击进入动态网址</a><br/>
       微信如果提示：停止访问该网页<br/>
       请点击右上角，选择浏览器打开<br/>
@@ -74,7 +85,7 @@
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg"/></td>
   </tr>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%BD%91%E9%97%A8%E6%8C%87%E5%8D%972.jpg"/></td>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%971.jpg"/></td>
   </tr>
   <tr>
 </table>    
