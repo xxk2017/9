@@ -4,10 +4,10 @@
   </tr>
   <tr>
   <td align=center>
-  ◆◆◆九评共产党◆◆◆<br/>
-  看懂当下，看清未来<br/>
-   <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&from=wnel">请点击在线浏览</a><br/>
- 如打开慢，缓冲稍等或刷新<br/>
+◆◆◆九评共产党◆◆◆<br/>
+看懂当下，看清未来<br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&from=wnel">请点击在线浏览</a><br/>
+如打开慢，缓冲稍等或刷新<br/>
      </tr>
   <tr>
     <td align=left>
