@@ -11,7 +11,7 @@
      </tr>
   <tr>
     <td align=left>
-    ◆主要内容<br/>
+◆主要内容<br/>
 【一】评共产党是什么<br/>
 【二】评中国共产党是怎样起家的<br/>
 【三】评中国共产党的暴政<br/>
@@ -24,7 +24,7 @@
   </tr>
   <tr>
   <td align=left>
-   如打开慢，缓冲稍等或刷新<br/>
+如打开慢，缓冲稍等或刷新<br/>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&current=3:1&from=wnel">《九评》系列插图 看清中国人苦难根源</a><br/>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&current=4:1&from=wnel">《九评》13周年 近2亿7千万人三退</a><br/>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&current=5:1&from=wnel">《九评》著名学者：当今乱世的解药</a><br/>
@@ -32,8 +32,8 @@
   </tr>
   <tr>
       <td align=left>
-  * 参考资料：<br/>
-   如打开慢，缓冲稍等或刷新<br/>
+* 参考资料：<br/>
+如打开慢，缓冲稍等或刷新<br/>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&from=wnel">九评共产党：全球热传18年人心明</a><br/>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FMTDWH.mp4&from=wnel">漫谈党文化</a><br/>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?1D%2FJTDWH&from=wnel">解体党文化</a><br/>
@@ -42,7 +42,7 @@
 </tr>
   <tr>
     <td align=center>
-       如打开慢，缓冲稍等或刷新<br/>
+如打开慢，缓冲稍等或刷新<br/>
 看完九评，<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogST.aspx?from=wnel-3T">请点击在线快速办理</a><br/>
 全球近3亿人的幸运选择，珍贵机缘<br/>
 为你而来，这一次您千万别再错过～<br/>
