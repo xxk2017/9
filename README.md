@@ -55,7 +55,7 @@
        </td>
   </tr>
   <tr>
-   <td align=center>网门网址 https://git.io/ogate 请收藏浏览器<br/>
+   <td align=center>网门网址 https://git.io/ogate 收藏浏览器<br/>
 推荐谷歌或火狐浏览器<br/>
 国产浏览器会干扰访问<br/>
     </td>
