@@ -57,13 +57,14 @@
 为你而来，这一次您千万别再错过～<br/>
   </tr>
   <tr>
-  <tr><td align=center>▼▼▼更多精彩，请看下面▼▼▼<br/>
+<tr><td align=center>▼▼▼更多精彩，请看下面▼▼▼<br/>
   </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
   </tr>
   <tr>
-   <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
+<td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
+推荐谷歌、火狐浏览器，国产浏览器易干扰<br/>
        </td>
   </tr>
   <tr>
