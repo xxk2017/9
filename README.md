@@ -1,17 +1,18 @@
 <table>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/9Pnew1.jpg" /></td>
-   </tr>
-  <tr>
-   <td align=center>
-微信如果提示：停止访问该网页<br/>
-请点击右上角，选择浏览器打开<br/>
   </tr>
   <tr>
   <td align=center>
 ◆◆◆九评共产党◆◆◆<br/>
 看懂当下，看清未来<br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&from=wnel">请点击在线浏览</a><br/>
+   </tr>
+  <tr>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E1.jpg"/></td>
+  </tr>
+  <tr>
+ <td align=center>
 如打开慢，缓冲稍等或刷新<br/>
      </tr>
   <tr>
@@ -28,8 +29,7 @@
 【九】评中国共产党的流氓本性<br/>
   </tr>
   <tr>
-  <td align=left>
-如打开慢，缓冲稍等或刷新<br/>
+<td align=left>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&current=3:1&from=wnel">《九评》系列插图 看清中国人苦难根源</a><br/>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&current=4:1&from=wnel">《九评》13周年 近2亿7千万人三退</a><br/>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&current=5:1&from=wnel">《九评》著名学者：当今乱世的解药</a><br/>
@@ -37,8 +37,7 @@
   </tr>
   <tr>
       <td align=left>
-* 参考资料：<br/>
-如打开慢，缓冲稍等或刷新<br/>
+  * 参考资料：<br/>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&from=wnel">九评共产党：全球热传18年人心明</a><br/>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FMTDWH.mp4&from=wnel">漫谈党文化</a><br/>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?1D%2FJTDWH&from=wnel">解体党文化</a><br/>
@@ -46,8 +45,13 @@
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816602&from=wnel">马克思的成魔之路</a><br/>
 </tr>
   <tr>
-    <td align=center>
+    <td align=center>
+微信如果提示：停止访问该网页<br/>
+请点击右上角，选择浏览器打开<br/>
 如打开慢，缓冲稍等或刷新<br/>
+  </tr>
+  <tr>
+      <td align=center>
 看完九评，<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogST.aspx?from=wnel-3T">请点击在线快速办理</a><br/>
 全球近3亿人的幸运选择，珍贵机缘<br/>
 为你而来，这一次您千万别再错过～<br/>
@@ -93,4 +97,6 @@
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%971.jpg"/></td>
   </tr>
   <tr>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E.jpg"/></td>
+
 </table>    
