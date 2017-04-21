@@ -27,7 +27,7 @@
   <tr>
 <td align=left>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&current=3:1&from=wnel">《九评》系列插图 看清中国人苦难根源</a><br/>
-◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&current=4:1&from=wnel">《九评》13周年 近2亿7千万人三退</a><br/>
+◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&current=4:1&from=wnel">《九评》13周年 近3亿人退党团队</a><br/>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&current=5:1&from=wnel">《九评》著名学者：当今乱世的解药</a><br/>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&current=6:1&from=wnel">【特稿】九评问世13年 中国巨变在即</a><br/>
   </tr>
