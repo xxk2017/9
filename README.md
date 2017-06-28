@@ -18,7 +18,7 @@
 【二】评中国共产党是怎样起家的<br/>
 【三】评中国共产党的暴政<br/>
 【四】评共产党是反宇宙的力量<br/>
-【五】评江泽民与中共相互利用迫害法轮功<br/>
+【五】评江泽民中共相互利用迫害法轮功<br/>
 【六】评中国共产党破坏民族文化<br/>
 【七】评中国共产党的杀人历史<br/>
 【八】评中国共产党的邪教本质<br/>
@@ -26,7 +26,7 @@
   </tr>
   <tr>
 <td align=left>
-◆<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?4EC%2FJP.mp4&current=3:1&from=wnel">《九评》系列插图 看清中国人苦难根源</a><br/>
+◆<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?4EC%2FJP.mp4&current=3:1&from=wnel">《九评》系列图 看清中国人苦难根源</a><br/>
 ◆<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?4EC%2FJP.mp4&current=4:1&from=wnel">《九评》13周年 近3亿人退党退团退队</a><br/>
 ◆<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?4EC%2FJP.mp4&current=5:1&from=wnel">《九评》著名学者：当今乱世的解药</a><br/>
 ◆<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?4EC%2FJP.mp4&current=6:1&from=wnel">【特稿】九评问世13年 中国巨变在即</a><br/>
@@ -90,11 +90,11 @@
   </tr>
   <tr>
 <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
-推荐谷歌/火狐浏览器，国产浏览器易干扰<br/>
+推荐谷歌/火狐浏览器，国产浏览器干扰<br/>
        </td>
   </tr>
   <tr>
-<td align=center>网门网址 https://git.io/ogate 请收藏浏览器<br/>
+<td align=center>网门网址 https://git.io/ogate 收藏浏览器<br/>
   </tr>
   <tr>
     <td align=center>
