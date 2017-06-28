@@ -2,7 +2,7 @@
 <td align=left>◆2017国人翻墙最人气网站<br/>
 ◆网门 https://git.io/ogate<br/>
 ◆请收藏到手机和电脑浏览器中<br/>
-◆此网址适合苹果、安卓、平板、电脑
+◆适合苹果、安卓、平板、电脑<br/>
 ◆其中安卓用户与电脑用户<br/>
 ◆推荐使用谷歌或火狐浏览器<br/>
 <a href="https://chrome.cn.uptodown.com/androidl">（谷歌浏览器安卓版 请下载安装）</a><br/>
