@@ -4,7 +4,7 @@
 ◆请收藏到手机和电脑浏览器中<br/>
 ◆安卓推荐使用谷歌/火狐浏览器<br/>
 https://chrome.cn.uptodown.com/android <br/>
-◆国产浏览器监控干扰，请卸载<br/>
+◆国产浏览器干扰浏览，请卸载<br/>
 ◆2017国人翻墙最人气软件<br/>
 ◆安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
 ◆下载安卓版更快更方便<br/>
