@@ -5,9 +5,9 @@
 ◆适合苹果、安卓、平板、电脑<br/>
 ◆其中安卓用户与电脑用户<br/>
 ◆推荐使用谷歌或火狐浏览器<br/>
-<a href="https://chrome.cn.uptodown.com/androidl">谷歌安卓版、 </a>
+<a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
-<a href="https://cn.uptodown.com/iphone">苹果版、</a>
+<a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
 ◆国产浏览器干扰浏览，请卸载<br/>
 ◆2017国人翻墙最人气软件网门<br/>
