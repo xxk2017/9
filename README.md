@@ -110,7 +110,7 @@
   </tr>
   <tr>
 <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
-推荐谷歌♦火狐浏览器♦国产浏览器易干扰<br/>
+推荐谷歌/火狐浏览器♦国产浏览器易干扰<br/>
 <a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
@@ -120,7 +120,7 @@
   <tr>
 <td align=center>网门 網門<br/>
 欢迎来到固定页面，请收藏浏览器<br/>
-❤https://git.io/ogate❤ <br/>
+❤ https://git.io/ogate ❤ <br/>
   </tr>
   <tr>
     <td align=center>
