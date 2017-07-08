@@ -240,7 +240,4 @@ https://git.io/88<br/>
 ◆https://git.io/vQgqs 致我们心中的善<br/>
 </tr>
 <tr>
- <td align=left>本页短网址：https://git.io/vQogU<br/>
-</tr>
-<tr>
 </table>
