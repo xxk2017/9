@@ -4,8 +4,15 @@
   </tr>
   <tr>
 <td align=left>本页短网址：https://git.io/vQgU9<br/>
-本页面如遇打不开，请复制上面网址到谷歌浏览器<br/>
-苹果用户直接复制到苹果自带浏览器打开<br/>
+◆翻墙永久网址：https://git.io/ogate （请收藏）<br/>
+本页如遇打不开，请复制上面网址到谷歌浏览器<br/>
+苹果用户请直接复制到苹果自带Safari浏览器打开<br/>
+中国网民必备最佳浏览器：谷歌浏览器（请安装）<br/>
+<a href="https://chrome.cn.uptodown.com/android">◆谷歌浏览器安卓版 </a>
+<a href="https://google-chrome.cn.uptodown.com/windows">◆谷歌浏览器windows版 </a><br/>
+<a href="https://chrome.cn.uptodown.com/iphone">◆谷歌浏览器苹果版</a>
+<a href="https://google-chrome.cn.uptodown.com/mac">◆谷歌浏览器Mac版</a><br/>
+国产浏览器监控网民、屏蔽网页、广告垃圾多，请卸载<br/>
 </tr>
 <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg"/></td>
