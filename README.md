@@ -12,7 +12,7 @@
 <a href="https://google-chrome.cn.uptodown.com/windows">◆谷歌浏览器windows版 </a><br/>
 <a href="https://chrome.cn.uptodown.com/iphone">◆谷歌浏览器苹果版</a>
 <a href="https://google-chrome.cn.uptodown.com/mac">◆谷歌浏览器Mac版</a><br/>
-国产浏览器监控网民、屏蔽网页、广告垃圾多，请卸载<br/>
+国产浏览器监控网民、屏蔽网页、广告多，请卸载<br/>
 </tr>
 <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg"/></td>
