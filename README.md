@@ -101,8 +101,8 @@
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816833&from=wnel">◆《大纪元时报》系列：共产党百年真相</a><br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c813126&from=wnel">◆【特稿】迫害法轮功遭报应实录</a><br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816833_2_15&from=wnel">◆【特稿】感情代替不了理智</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816833_2_901&from=wnel">◆【特稿】共产主义不是出路是绝路（1）</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816833_2_900&from=wnel">◆【特稿】共产主义不是出路是绝路（2）</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816833_2_901&from=wnel">◆【特稿】共产主义不是出路是绝路1</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816833_2_900&from=wnel">◆【特稿】共产主义不是出路是绝路2</a><br/>
 如打开慢，缓冲稍等或刷新<br/>
   </tr>
   <tr>
