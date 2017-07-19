@@ -9,7 +9,7 @@
 苹果用户请输入网址到苹果浏览器打开<br/>
 网民必备浏览器：谷歌浏览器（请安装）<br/>
 <a href="https://chrome.cn.uptodown.com/android">◆谷歌浏览器安卓版 </a><br/>
-<a href="https://google-chrome.cn.uptodown.com/windows">◆谷歌浏览器windows版 </a><br/>
+<a href="https://google-chrome.cn.uptodown.com/windows">◆谷歌浏览器电脑版 </a><br/>
 <a href="https://chrome.cn.uptodown.com/iphone">◆谷歌浏览器苹果版</a><br/>
 <a href="https://google-chrome.cn.uptodown.com/mac">◆谷歌浏览器Mac版</a><br/>
 国产浏览器监控/屏蔽网页/广告多/请卸载<br/>
