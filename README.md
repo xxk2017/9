@@ -40,7 +40,7 @@
   <td align=center>
 ◆◆◆九评共产党◆◆◆<br/>
 看懂当下，看清未来<br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816837&from=wnel">❤❤请点击在线浏览❤❤</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816837&from=wnel">❤❤请点击在线浏览❤❤</a><br/>
    </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
@@ -48,13 +48,13 @@
   <tr>
     <td align=left>
 ◆主要内容◆<br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816837_14_2&from=wnel">◆共产主义不是出路而是绝路
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816837_14_2&from=wnel">◆共产主义不是出路而是绝路
 </a><br/>
 【一】评共产党是什么<br/>
 【二】评中国共产党是怎样起家的<br/>
 【三】评中国共产党的暴政<br/>
 【四】评共产党是反宇宙的力量<br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816837_9_3&from=wnel">【五】评江泽民中共相互利用迫害法轮功</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816837_9_3&from=wnel">【五】评江泽民中共相互利用迫害法轮功</a><br/>
 【六】评中国共产党破坏民族文化<br/>
 【七】评中国共产党的杀人历史<br/>
 【八】评中国共产党的邪教本质<br/>
@@ -62,10 +62,10 @@
   </tr>
   <tr>
 <td align=left>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816837_2_1&from=wnel">◆《九评》系列图 看清中国人苦难根源</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816846_6_1&from=wnel">◆《九评》13周年 近3亿人退党退团退队</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c826758&from=wnel">◆《九评》著名学者：当今乱世的解药</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c826759&from=wnel">◆【特稿】九评问世13年 中国巨变在即</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816837_2_1&from=wnel">◆《九评》系列图 看清中国人苦难根源</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816846_6_1&from=wnel">◆《九评》13周年 近3亿人退党退团退队</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c826758&from=wnel">◆《九评》著名学者：当今乱世的解药</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c826759&from=wnel">◆【特稿】九评问世13年 中国巨变在即</a><br/>
   </tr>
   <tr>
    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/3T.jpg" /></td>
@@ -77,7 +77,7 @@
 <td align=center>
 全球近3亿人的幸运选择，珍贵机缘<br/>
 看完九评，这一次您千万别再错过～<br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogST.aspx?from=wnel-3T">❤❤❤请点击在线快速办理❤❤❤</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?ogST.aspx?from=wnel-3T">❤❤❤请点击在线快速办理❤❤❤</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
 苹果用户复制到自带浏览器打开<br/>
@@ -89,41 +89,61 @@
   <tr>
       <td align=left>
 ◆全球热门专辑<br/>
-◆<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816846&from=wnel">九评共产党：全球热传18年人心明</a><br/>
-◆<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816842&from=wnel">漫谈党文化</a><br/>
-◆<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816587&from=wnel">解体党文化</a><br/>
-◆<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816833&from=wnel">百年共产党</a><br/>
-◆<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816602&from=wnel">马克思的成魔之路</a><br/>
+◆<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816846&from=wnel">九评共产党：全球热传18年人心明</a><br/>
+◆<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816842&from=wnel">漫谈党文化</a><br/>
+◆<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816587&from=wnel">解体党文化</a><br/>
+◆<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816833&from=wnel">百年共产党</a><br/>
+◆<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816602&from=wnel">马克思的成魔之路</a><br/>
   </tr>
   <tr>
 <td align=left>◆百年共产党真相◆特稿<br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c813126&from=wnel">◆《大纪元时报》特刊：共产党百年真相</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816833&from=wnel">◆《大纪元时报》系列：共产党百年真相</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c813126&from=wnel">◆【特稿】迫害法轮功遭报应实录</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816833_2_15&from=wnel">◆【特稿】感情代替不了理智</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816833_2_901&from=wnel">◆【特稿】共产主义不是出路是绝路1</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816833_2_900&from=wnel">◆【特稿】共产主义不是出路是绝路2</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c813126&from=wnel">◆《大纪元时报》特刊：共产党百年真相</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816833&from=wnel">◆《大纪元时报》系列：共产党百年真相</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c813126&from=wnel">◆【特稿】迫害法轮功遭报应实录</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816833_2_15&from=wnel">◆【特稿】感情代替不了理智</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816833_2_901&from=wnel">◆【特稿】共产主义不是出路是绝路1</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816833_2_900&from=wnel">◆【特稿】共产主义不是出路是绝路2</a><br/>
 如打开慢，缓冲稍等或刷新<br/>
   </tr>
   <tr>
 <td align=left>
  ◆◆2017年全球热点文章<br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c807209&from=wnel">◆◆中共害国，铁证如山</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c813172&from=wnel">◆◆中共卖国，证据确凿</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c813247&from=wnel">◆◆对中共无神论说“不”！</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c826766&from=wnel">◆◆中共成立以来杀人记录！</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c795808&from=wnel">◆◆中国共产党的杀人历史！</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c826769&from=wnel">◆◆中共变异了西方世界的思维和行为</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c826770&from=wnel">◆◆共产主义的淫乱基因——性解放</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c813246&from=wnel">◆◆共产主义是世界上最大恐怖主义</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c812504&from=wnel">◆◆共产主义是世界上最大邪教</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c813248&from=wnel
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c807209&from=wnel">◆◆中共害国，铁证如山</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c813172&from=wnel">◆◆中共卖国，证据确凿</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c813247&from=wnel">◆◆对中共无神论说“不”！</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c826766&from=wnel">◆◆中共成立以来杀人记录！</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c795808&from=wnel">◆◆中国共产党的杀人历史！</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c826769&from=wnel">◆◆中共变异了西方世界的思维和行为</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c826770&from=wnel">◆◆共产主义的淫乱基因——性解放</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c813246&from=wnel">◆◆共产主义是世界上最大恐怖主义</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c812504&from=wnel">◆◆共产主义是世界上最大邪教</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c813248&from=wnel
 ">◆◆马列主义是毒药</a><br/>
   </tr>
   <tr>
 <tr><td align=center>▼▼▼更多精彩，请看下面▼▼▼<br/>
   </tr>
   <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
+  </tr>
+  <tr>
+<table>
+  <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%BD%91%E9%97%A8%E5%BE%AE%E4%BF%A1%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.jpg" /></td>
+  </tr>
+  <tr>
+<td align=left>本页短网址：https://git.io/vQogU<br/>
+❤翻墙永久网址：https://git.io/ogate <br/>
+本页如屏蔽，请将网址输入谷歌浏览器<br/>
+苹果用户请输入网址到苹果浏览器打开<br/>
+网民必备浏览器：谷歌浏览器（请安装）<br/>
+<a href="https://chrome.cn.uptodown.com/android">◆谷歌浏览器安卓版 </a><br/>
+<a href="https://google-chrome.cn.uptodown.com/windows">◆谷歌浏览器电脑版 </a><br/>
+<a href="https://chrome.cn.uptodown.com/iphone">◆谷歌浏览器苹果版</a><br/>
+<a href="https://google-chrome.cn.uptodown.com/mac">◆谷歌浏览器Mac版</a><br/>
+国产浏览器监控/屏蔽网页/广告多/请卸载<br/>
+</tr>
+<tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
   </tr>
   <tr>
@@ -147,11 +167,12 @@
   </tr>
   <tr>
   <td align=center>请尝试不同入口，进入动态网址<br/>
-      <a target="_blank" href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=wnel">入口</a>
-      <a target="_blank" href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=wnel">入口</a>
-      <a target="_blank" href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=wnel">入口</a><br/>
-      <a target="_blank" href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=wnel">入口</a>
-      <a target="_blank" href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">入口</a><br/>
+      <a href="https://rawgit.com/onorm/up/master/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=wnel">入口</a><br/>
+      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">入口</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
 苹果用户复制到自带浏览器打开<br/>
@@ -184,15 +205,15 @@
 网门桌面版 https://git.io/ogatew<br/>
 谷歌桌面版 https://git.io/ogatecw<br/>
 ◆全球最人气翻墙软件<br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_1_1&from=wnel">◆自由门（安卓版）</a><br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_2_1&from=wnel">◆自由门（电脑版）</a><br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816767_1_1&from=wnel">◆无界浏览（安卓版）</a><br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816767_2_1&from=wnel">◆无界浏览（电脑版）</a><br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816730&from=wnel">◆新唐人电视（安卓版）</a><br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816731&from=wnel">◆爱博电视（电脑版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816729_1_1&from=wnel">◆自由门（安卓版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816729_2_1&from=wnel">◆自由门（电脑版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816767_1_1&from=wnel">◆无界浏览（安卓版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816767_2_1&from=wnel">◆无界浏览（电脑版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816730&from=wnel">◆新唐人电视（安卓版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816731&from=wnel">◆爱博电视（电脑版）</a><br/> 
 ◆全球最佳浏览器——大陆网民必备<br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816725&from=wnel">◆谷歌浏览器（安卓版）</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816726&from=wnel">◆谷歌浏览器（电脑版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816725&from=wnel">◆谷歌浏览器（安卓版）</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816726&from=wnel">◆谷歌浏览器（电脑版）</a><br/> 
 <a href="https://chrome.cn.uptodown.com/android">◆谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
@@ -216,7 +237,7 @@ II更多翻墙大全 https://git.io/jww<br/>
   <tr>
   <td align=left>全球其他最热门网站，请收藏<br/>
 ◆大陆网民请使用谷歌浏览器<br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogTool&from=wnel">◆谷歌浏览器（安卓版、电脑版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?ogTool&from=wnel">◆谷歌浏览器（安卓版、电脑版）</a><br/> 
 <a href="https://chrome.cn.uptodown.com/android">◆谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
