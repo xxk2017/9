@@ -127,26 +127,6 @@
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
   </tr>
   <tr>
-<table>
-  <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%BD%91%E9%97%A8%E5%BE%AE%E4%BF%A1%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.jpg" /></td>
-  </tr>
-  <tr>
-<td align=left>本页短网址：https://git.io/vQogU<br/>
-❤翻墙永久网址：https://git.io/ogate <br/>
-本页如屏蔽，请将网址输入谷歌浏览器<br/>
-苹果用户请输入网址到苹果浏览器打开<br/>
-网民必备浏览器：谷歌浏览器（请安装）<br/>
-<a href="https://chrome.cn.uptodown.com/android">◆谷歌浏览器安卓版 </a><br/>
-<a href="https://google-chrome.cn.uptodown.com/windows">◆谷歌浏览器电脑版 </a><br/>
-<a href="https://chrome.cn.uptodown.com/iphone">◆谷歌浏览器苹果版</a><br/>
-<a href="https://google-chrome.cn.uptodown.com/mac">◆谷歌浏览器Mac版</a><br/>
-国产浏览器监控/屏蔽网页/广告多/请卸载<br/>
-</tr>
-<tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
-  </tr>
-  <tr>
 <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
 推荐谷歌/火狐浏览器/国产浏览器易干扰<br/>
 <a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
