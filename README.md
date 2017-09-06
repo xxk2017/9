@@ -20,7 +20,7 @@ https://github.com/ogate2/ogate<br/>
   </tr>
   <tr>
 <td align=left>◆2017国人翻墙最人气网站<br/>
-❤网门 https://git.io/ogate<br/>
+❤网门 https://git.io/ogate2<br/>
 https://github.com/ogate2/ogate<br/>
 ◆请收藏到手机和电脑浏览器中<br/>
 ◆适合苹果、安卓、平板、电脑<br/>
