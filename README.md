@@ -4,7 +4,8 @@
   </tr>
   <tr>
 <td align=left>本页短网址：https://git.io/vQgU9<br/>
-❤翻墙永久网址：https://git.io/ogate <br/>
+❤翻墙永久网址：https://git.io/ogate2 <br/>
+https://github.com/ogate2/ogate<br/>
 本页如屏蔽，请将网址输入谷歌浏览器<br/>
 苹果用户请输入网址到苹果浏览器打开<br/>
 网民必备浏览器：谷歌浏览器（请安装）<br/>
@@ -20,6 +21,7 @@
   <tr>
 <td align=left>◆2017国人翻墙最人气网站<br/>
 ❤网门 https://git.io/ogate<br/>
+https://github.com/ogate2/ogate<br/>
 ◆请收藏到手机和电脑浏览器中<br/>
 ◆适合苹果、安卓、平板、电脑<br/>
 ◆其中安卓用户与电脑用户<br/>
@@ -30,7 +32,7 @@
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
 ◆国产浏览器干扰浏览，请卸载<br/>
 ◆2017国人翻墙最人气软件网门<br/>
-❤网门安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
+❤网门安卓版 http://6du.in/111rXun<br/>
 ◆下载网门安卓版：更快更方便<br/>
   </tr>
   <tr>
@@ -139,6 +141,7 @@
 <td align=center>网门 網門<br/>
 欢迎来到固定页面，请收藏浏览器<br/>
 ❤ https://git.io/ogate ❤ <br/>
+https://github.com/ogate2/ogate<br/>
 适合苹果、安卓、平板、电脑<br/>
 </tr>
 <tr>
@@ -160,7 +163,7 @@
   <tr>
       <td align=center>
 2017年网民翻墙最人气软件<br/>
-安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
+安卓版 http://6du.in/111rXun<br/>
 下载网门安卓版更快更方便<br/>
   </tr>
   <tr>
@@ -180,10 +183,8 @@
   <tr>
 <td align=left>
 ◆全球免费翻墙最人气网站：网门<br/> 
-网门网页版 https://git.io/ogate 热门推荐<br/>
-网门安卓版 https://git.io/ogatea<br/>
-网门桌面版 https://git.io/ogatew<br/>
-谷歌桌面版 https://git.io/ogatecw<br/>
+网门网页版 https://git.io/ogate2 热门推荐<br/>
+网门安卓版 http://6du.in/111rXun<br/>
 ◆全球最人气翻墙软件<br/> 
 <a href="https://s3.amazonaws.com/ogate/oGate.htm?c816729_1_1&from=wnel">◆自由门（安卓版）</a><br/> 
 <a href="https://s3.amazonaws.com/ogate/oGate.htm?c816729_2_1&from=wnel">◆自由门（电脑版）</a><br/> 
@@ -207,7 +208,7 @@ https://git.io/vQowA<br/>
 无界安卓版 https://git.io/v6836 <br/>
 无界电脑版 https://git.io/vEJlj <br/>
 ◆翻墙小技巧：<br/>
-II苹果用户，用自带浏览器收藏https://git.io/ogate 翻墙全球真实资讯<br/>
+II苹果用户，用自带浏览器收藏https://git.io/ogate2 翻墙全球真实资讯<br/>
 II苹果用户最佳免费翻墙大全：https://git.io/vQo02<br/>
 II安卓、电脑用户，用谷歌浏览器收藏 https://git.io/ogate 浏览全球真实资讯<br/>
 II安卓、电脑用户，安装并成功打开无界或自由门后，可在软件内打开推特、脸书、youtube等<br/>
