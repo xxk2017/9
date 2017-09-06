@@ -91,7 +91,7 @@ https://github.com/ogate2/ogate<br/>
   <tr>
       <td align=left>
 ◆全球热门专辑<br/>
-◆<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816846&from=wnel">九评共产党：全球热传18年人心明</a><br/>
+◆<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816846&from=wnel">九评共产党：全球热传14年人心明</a><br/>
 ◆<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816842&from=wnel">漫谈党文化</a><br/>
 ◆<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816587&from=wnel">解体党文化</a><br/>
 ◆<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816833&from=wnel">百年共产党</a><br/>
