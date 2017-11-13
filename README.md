@@ -140,7 +140,7 @@ https://github.com/ogate2/ogate<br/>
   <tr>
 <td align=center>网门 網門<br/>
 欢迎来到固定页面，请收藏浏览器<br/>
-❤ https://git.io/ogate ❤ <br/>
+❤ https://git.io/ogate2 ❤ <br/>
 https://github.com/ogate2/ogate<br/>
 适合苹果、安卓、平板、电脑<br/>
 </tr>
