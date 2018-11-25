@@ -9,10 +9,10 @@ https://github.com/ogate2/ogate<br/>
 本页如屏蔽，请将网址输入谷歌浏览器<br/>
 苹果用户请输入网址到苹果浏览器打开<br/>
 网民必备浏览器：谷歌浏览器（请安装）<br/>
-<a href="https://chrome.cn.uptodown.com/android">◆谷歌浏览器安卓版 </a><br/>
-<a href="https://google-chrome.cn.uptodown.com/windows">◆谷歌浏览器电脑版 </a><br/>
-<a href="https://chrome.cn.uptodown.com/iphone">◆谷歌浏览器苹果版</a><br/>
-<a href="https://google-chrome.cn.uptodown.com/mac">◆谷歌浏览器Mac版</a><br/>
+谷歌浏览器安卓版 https://got.io/Chromea
+谷歌浏览器电脑版 https://got.io/Chrowew
+
+
 国产浏览器监控/屏蔽网页/广告多/请卸载<br/>
 </tr>
 <tr>
@@ -91,8 +91,8 @@ https://github.com/ogate2/ogate<br/>
   <tr>
       <td align=left>
 ◆全球热门专辑<br/>
-◆<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816846&from=wnel">九评共产党：全球热传14年人心明</a><br/>
-◆<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816842&from=wnel">漫谈党文化</a><br/>
+◆<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816837_13_2&from=wnel">九评共产党：全球热传14年人心明</a><br/>
+◆<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816842_28_2&from=wnel">漫谈党文化</a><br/>
 ◆<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816587&from=wnel">解体党文化</a><br/>
 ◆<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816833&from=wnel">百年共产党</a><br/>
 ◆<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816602&from=wnel">马克思的成魔之路</a><br/>
